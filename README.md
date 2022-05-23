@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jnog25
 - 👀 I’m interested in Data Science and IA
 - 🌱 I’m currently learning Data Science and IA Fundamentals
-- 💞️ I’m looking to collaborate on a project that requieres basic skils on Data Science
+- 💞️ I’m looking to collaborate on a project that requieres basic skills on Data Science
 - 📫 How to reach me norberto.gtz25@gmail.com
 
 <!---
